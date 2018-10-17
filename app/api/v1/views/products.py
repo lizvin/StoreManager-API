@@ -25,4 +25,5 @@ class Cart(Resource):
            {
                'Pro':items
            }
+           
        ), 200)
